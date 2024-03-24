@@ -1,0 +1,1 @@
+This is a project I worked on in CS 251 that imitated a search engine by indexing key words and pairing them to URLs. To run this program you will have to specify a filename that matches one of the .txt files in the folder and run main.cpp. 
